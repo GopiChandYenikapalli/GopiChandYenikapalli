@@ -7,9 +7,9 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Asrst&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-     I'm Gopi.
+     -  I’m Gopi
   </h1>
 </div>
 
@@ -44,20 +44,12 @@ I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Asrst)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GopiChandYenikapalli)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrst&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GopiChandYenikapalli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-
-
-
-- 👋 Hi, I’m @GopiChandYenikapalli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 GopiChandYenikapalli/GopiChandYenikapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
