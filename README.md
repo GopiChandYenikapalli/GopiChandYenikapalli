@@ -16,14 +16,17 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer (Data), building end-to-end applications supporting data science and analytics. I have expertise in training & deploying machine learning models, deep learning use-cases (NLP), ETL, data pipelines and dashboarding.
+
+I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing Masters of Science in Business Analytics and Information Systems from University of South Florida.
+
+- :telescope: I envision myself as an influencer Data Scientist/ Data Analyst to deliver valuable insights from data where I can utilize my technical and managerial skills to permute business decisions and guide organizations towards great efficiency.Strong background in areas including Data mining, Data Analysis, Statistical Analysis, Data Visualization, Machine Learning. 4 years of multifaceted work experience as a Data Scientist, Data Analyst. Expertise in the field of Machine Learning and Data Science, building predictive models, fine tuning them and successfully delivering results with Data Visualization tools such as Tableau and Power BI I have expertise in training & deploying machine learning models, deep learning use-cases (NLP), ETL, data pipelines and dashboarding.
 
 - :zap: In my free time, I contribute to open-source and read tech articles.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satya-ram-adda/)
+- :mailbox:How to reach me: [![image](https://github.com/GopiChandYenikapalli/GopiChandYenikapalli/assets/124816585/6e1c681d-1e00-4a75-b1d1-c37d190efd7a)
+](https://www.linkedin.com/in/gopichand-yenikapalli-usf/)
 
 ---
 
