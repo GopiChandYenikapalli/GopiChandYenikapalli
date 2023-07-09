@@ -25,8 +25,7 @@ I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: 
-<a href="https://www.linkedin.com/in/gopichand-yenikapalli-usf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/gopichand-yenikapalli-usf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120" height="30" ></a> 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -36,6 +35,7 @@ I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://assets.blogs.bsu.edu/wp-content/uploads/sites/38/2023/02/24133338/Tableau-Logo-1536x864.png" title="Tableau"  alt="Tableau" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app-930x620.jpg" title="Power BI"  alt="Power BI" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
