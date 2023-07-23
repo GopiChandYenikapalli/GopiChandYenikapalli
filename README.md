@@ -55,7 +55,7 @@ I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   
 </div>
 
-
+![GopiChandYenikapalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!---
 GopiChandYenikapalli/GopiChandYenikapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
