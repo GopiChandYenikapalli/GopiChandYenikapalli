@@ -19,9 +19,9 @@
 
 I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing Masters of Science in Business Analytics and Information Systems from University of South Florida.
 
-- :telescope: I envision myself as an influencer Data Scientist/ Data Analyst to deliver valuable insights from data where I can utilize my technical and managerial skills to permute business decisions and guide organizations towards great efficiency.Strong background in areas including Data mining, Data Analysis, Statistical Analysis, Data Visualization, Machine Learning. 4 years of multifaceted work experience as a Data Scientist, Data Analyst. Expertise in the field of Machine Learning and Data Science, building predictive models, fine tuning them and successfully delivering results with Data Visualization tools such as Tableau and Power BI I have expertise in training & deploying machine learning models, deep learning use-cases (NLP), ETL, data pipelines and dashboarding.
+- :telescope: I envision myself as an influencer Data Scientist/ Data Analyst to deliver valuable insights from data where I can utilize my technical and managerial skills to permute business decisions and guide organizations towards great efficiency.Strong background in areas including Data mining, Data Analysis, Statistical Analysis, Data Visualization, and Machine learning. 4 years of multifaceted work experience as a Data Scientist, Data Analyst. Expertise in the field of Machine Learning and Data Science, building predictive models, fine-tuning them and successfully delivering results with Data Visualization tools such as Tableau and Power BI I have expertise in training & deploying machine learning models, deep learning use-cases (NLP), ETL, data pipelines, and dashboarding.
 
-- :zap: In my free time, I contribute to open-source and read tech articles.
+- :zap: In my free time, I contribute to open-source projects and read tech articles.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -43,7 +43,7 @@ I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   
   ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GopiChandYenikapalli)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GopiChandYenikapalli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -55,9 +55,9 @@ I am a Data geek. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   
 </div>
 
-#![GopiChandYenikapalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!---
+![GopiChandYenikapalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 GopiChandYenikapalli/GopiChandYenikapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
